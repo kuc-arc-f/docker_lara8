@@ -34,3 +34,8 @@ php composer.phar create-project --prefer-dist laravel/laravel myblog "8.*"
 ```
 
 ***
+### blog
+
+https://zenn.dev/knaka0209/articles/9891e688810813
+
+***
